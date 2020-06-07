@@ -1,1 +1,1 @@
-Stop Watch Project
+StopWatch Project
